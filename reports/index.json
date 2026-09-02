@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260902-194430-91mg",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-09-02T11:44:30.000Z",
+      "dateEnd": "2026-09-02T11:49:50.204Z",
+      "dateLabel": "2026/9/2 下午7:44:30 - 2026/9/2 下午7:49:50",
+      "url": "https://censoul.github.io/Censoul/?report=20260902-194430-91mg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 8
+      }
+    }
+  ]
+}
