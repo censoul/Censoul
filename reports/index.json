@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-205851-eue1",
+      "title": "Doctor Manhattan Sr",
+      "commanders": [
+        "Doctor Manhattan Sr"
+      ],
+      "guild": {
+        "id": "FFA46CED-430F-E811-81A1-12C4323DADC8",
+        "name": "Alice Ever Garden",
+        "tag": "AEG"
+      },
+      "dateStart": "2026-09-04T12:58:51.000Z",
+      "dateEnd": "2026-09-04T13:28:38.916Z",
+      "dateLabel": "2026/9/4 下午8:58:51 - 2026/9/4 下午9:28:38",
+      "url": "https://censoul.github.io/Censoul/?report=20260904-205851-eue1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 49,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260902-210244-h4qy",
       "title": "The Mage Supreme",
       "commanders": [
