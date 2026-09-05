@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-203053-szvc",
+      "title": "Sêxy Riddle",
+      "commanders": [
+        "Sêxy Riddle"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-09-05T12:30:53.000Z",
+      "dateEnd": "2026-09-05T13:12:09.029Z",
+      "dateLabel": "2026/9/5 下午8:30:53 - 2026/9/5 下午9:12:09",
+      "url": "https://censoul.github.io/Censoul/?report=20260905-203053-szvc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 54,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260904-205851-eue1",
       "title": "Doctor Manhattan Sr",
       "commanders": [
