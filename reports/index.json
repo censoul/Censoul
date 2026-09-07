@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-211837-82q9",
+      "title": "Blue Whatever, Doctor Manhattan Sr",
+      "commanders": [
+        "Blue Whatever",
+        "Doctor Manhattan Sr"
+      ],
+      "guild": {
+        "id": "FFA46CED-430F-E811-81A1-12C4323DADC8",
+        "name": "Alice Ever Garden",
+        "tag": "AEG"
+      },
+      "dateStart": "2026-09-07T13:18:37.000Z",
+      "dateEnd": "2026-09-07T13:46:03.547Z",
+      "dateLabel": "2026/9/7 下午9:18:37 - 2026/9/7 下午9:46:03",
+      "url": "https://censoul.github.io/Censoul/?report=20260907-211837-82q9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 70,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260907-115043-f1hz",
       "title": "Sféee",
       "commanders": [
