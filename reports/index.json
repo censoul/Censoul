@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-115043-f1hz",
+      "title": "Sféee",
+      "commanders": [
+        "Sféee"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-09-07T03:50:43.000Z",
+      "dateEnd": "2026-09-07T04:14:29.308Z",
+      "dateLabel": "2026/9/7 上午11:50:43 - 2026/9/7 下午12:14:29",
+      "url": "https://censoul.github.io/Censoul/?report=20260907-115043-f1hz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260906-204750-nuym",
       "title": "Sêxy Riddle",
       "commanders": [
