@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-214807-3bwt",
+      "title": "Evil Lord Envy, Incôgnïto",
+      "commanders": [
+        "Evil Lord Envy",
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-09-10T13:48:07.000Z",
+      "dateEnd": "2026-09-10T14:21:51.379Z",
+      "dateLabel": "2026/9/10 下午9:48:07 - 2026/9/10 下午10:21:51",
+      "url": "https://censoul.github.io/Censoul/?report=20260910-214807-3bwt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260909-205803-puzx",
       "title": "Incôgnïto",
       "commanders": [
