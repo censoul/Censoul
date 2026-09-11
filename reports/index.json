@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-211632-dx5d",
+      "title": "Riddle Returns",
+      "commanders": [
+        "Riddle Returns"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-09-11T13:16:32.000Z",
+      "dateEnd": "2026-09-11T13:46:38.821Z",
+      "dateLabel": "2026/9/11 下午9:16:32 - 2026/9/11 下午9:46:38",
+      "url": "https://censoul.github.io/Censoul/?report=20260911-211632-dx5d",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260910-214807-3bwt",
       "title": "Evil Lord Envy, Incôgnïto",
       "commanders": [
