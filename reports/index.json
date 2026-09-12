@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-211112-b931",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-12T13:11:12.000Z",
+      "dateEnd": "2026-09-12T14:05:57.271Z",
+      "dateLabel": "2026/9/12 下午9:11:12 - 2026/9/12 下午10:05:57",
+      "url": "https://censoul.github.io/Censoul/?report=20260912-211112-b931",
+      "summary": {
+        "borderlandsPct": 0.5909090909090909,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 33,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260912-150808-3kz7",
       "title": "Incôgnïto",
       "commanders": [
