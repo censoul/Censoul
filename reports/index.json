@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-150808-3kz7",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-09-12T07:08:08.000Z",
+      "dateEnd": "2026-09-12T08:09:01.752Z",
+      "dateLabel": "2026/9/12 下午3:08:08 - 2026/9/12 下午4:09:01",
+      "url": "https://censoul.github.io/Censoul/?report=20260912-150808-3kz7",
+      "summary": {
+        "borderlandsPct": 0.26666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260911-211632-dx5d",
       "title": "Riddle Returns",
       "commanders": [
