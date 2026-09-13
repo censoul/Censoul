@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260913-203348-m79t",
+      "title": "Midnîgth",
+      "commanders": [
+        "Midnîgth"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-13T12:33:48.000Z",
+      "dateEnd": "2026-09-13T13:23:52.283Z",
+      "dateLabel": "2026/9/13 下午8:33:48 - 2026/9/13 下午9:23:52",
+      "url": "https://censoul.github.io/Censoul/?report=20260913-203348-m79t",
+      "summary": {
+        "borderlandsPct": 0.38461538461538464,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260913-135326-0y8d",
       "title": "Incôgnïto",
       "commanders": [
