@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-230043-o6xd",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "FFA46CED-430F-E811-81A1-12C4323DADC8",
+        "name": "Alice Ever Garden",
+        "tag": "AEG"
+      },
+      "dateStart": "2026-09-15T15:00:43.000Z",
+      "dateEnd": "2026-09-15T15:35:34.093Z",
+      "dateLabel": "2026/9/15 下午11:00:43 - 2026/9/15 下午11:35:34",
+      "url": "https://censoul.github.io/Censoul/?report=20260915-230043-o6xd",
+      "summary": {
+        "borderlandsPct": 0.8888888888888888,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260915-214755-v6l7",
       "title": "Four K Ping Sil, Leäds",
       "commanders": [
