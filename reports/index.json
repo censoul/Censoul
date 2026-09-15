@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-214755-v6l7",
+      "title": "Four K Ping Sil, Leäds",
+      "commanders": [
+        "Four K Ping Sil",
+        "Leäds"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-15T13:47:55.000Z",
+      "dateEnd": "2026-09-15T14:32:10.688Z",
+      "dateLabel": "2026/9/15 下午9:47:55 - 2026/9/15 下午10:32:10",
+      "url": "https://censoul.github.io/Censoul/?report=20260915-214755-v6l7",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260915-212240-dbv3",
       "title": "Four K Ping Sil",
       "commanders": [
