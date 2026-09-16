@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-230043-k62g",
+      "title": "Incôgnïto, Soysoi",
+      "commanders": [
+        "Incôgnïto",
+        "Soysoi"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-09-15T15:00:43.000Z",
+      "dateEnd": "2026-09-16T13:49:22.157Z",
+      "dateLabel": "2026/9/15 下午11:00:43 - 2026/9/16 下午9:49:22",
+      "url": "https://censoul.github.io/Censoul/?report=20260915-230043-k62g",
+      "summary": {
+        "borderlandsPct": 0.35135135135135137,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260915-230043-o6xd",
       "title": "Incôgnïto",
       "commanders": [
