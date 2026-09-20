@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-174841-ttl0",
+      "title": "Incôgnïto, Looneytuunz",
+      "commanders": [
+        "Incôgnïto",
+        "Looneytuunz"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-09-20T09:48:41.000Z",
+      "dateEnd": "2026-09-20T10:16:25.869Z",
+      "dateLabel": "2026/9/20 下午5:48:41 - 2026/9/20 下午6:16:25",
+      "url": "https://censoul.github.io/Censoul/?report=20260920-174841-ttl0",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260918-213143-ushu",
       "title": "Unknown Commander",
       "commanders": [],
