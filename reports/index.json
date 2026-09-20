@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-211156-np6y",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-20T13:11:56.000Z",
+      "dateEnd": "2026-09-20T13:43:47.453Z",
+      "dateLabel": "2026/9/20 下午9:11:56 - 2026/9/20 下午9:43:47",
+      "url": "https://censoul.github.io/Censoul/?report=20260920-211156-np6y",
+      "summary": {
+        "borderlandsPct": 0.14285714285714285,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260920-174841-ttl0",
       "title": "Incôgnïto, Looneytuunz",
       "commanders": [
