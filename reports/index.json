@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260926-185852-u6dg",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-09-26T10:58:52.000Z",
+      "dateEnd": "2026-09-26T11:09:27.929Z",
+      "dateLabel": "2026/9/26 下午6:58:52 - 2026/9/26 下午7:09:27",
+      "url": "https://censoul.github.io/Censoul/?report=20260926-185852-u6dg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260925-213902-jcd2",
       "title": "Unknown Commander",
       "commanders": [],
