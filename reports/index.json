@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260927-161021-e20r",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-27T08:10:21.000Z",
+      "dateEnd": "2026-09-27T08:47:00.994Z",
+      "dateLabel": "2026/9/27 下午4:10:21 - 2026/9/27 下午4:47:00",
+      "url": "https://censoul.github.io/Censoul/?report=20260927-161021-e20r",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260926-205211-i35u",
       "title": "Kryskàa",
       "commanders": [
