@@ -1,8 +1,52 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20261002-211759-1vqi",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-02T13:17:59.000Z",
+      "dateEnd": "2026-10-02T14:21:15.881Z",
+      "dateLabel": "2026/10/2 下午9:17:59 - 2026/10/2 下午10:21:15",
+      "url": "https://censoul.github.io/Censoul/?report=20261002-211759-1vqi",
+      "summary": {
+        "borderlandsPct": 0.7741935483870968,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20260928-211254-3kqc",
       "title": "Four K Ping Sil",
