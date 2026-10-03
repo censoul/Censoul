@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261003-162732-qtav",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-03T08:27:32.000Z",
+      "dateEnd": "2026-10-03T08:59:52.049Z",
+      "dateLabel": "2026/10/3 下午4:27:32 - 2026/10/3 下午4:59:52",
+      "url": "https://censoul.github.io/Censoul/?report=20261003-162732-qtav",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261002-211759-1vqi",
       "title": "Incôgnïto",
       "commanders": [
