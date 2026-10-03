@@ -5,6 +5,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261003-195752-gzi3",
+      "title": "Four K Ping Sil, Kryskàa",
+      "commanders": [
+        "Four K Ping Sil",
+        "Kryskàa"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-03T11:57:52.000Z",
+      "dateEnd": "2026-10-03T16:00:24.538Z",
+      "dateLabel": "2026/10/3 下午7:57:52 - 2026/10/4 上午12:00:24",
+      "url": "https://censoul.github.io/Censoul/?report=20261003-195752-gzi3",
+      "summary": {
+        "borderlandsPct": 0.0673076923076923,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 97,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20261003-162732-qtav",
       "title": "Incôgnïto",
       "commanders": [
