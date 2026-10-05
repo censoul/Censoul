@@ -3,7 +3,40 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.21.0"
+  },
   "entries": [
+    {
+      "id": "20261005-213112-9i9x",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-05T13:31:12.000Z",
+      "dateEnd": "2026-10-05T14:05:23.584Z",
+      "dateLabel": "2026/10/5 下午9:31:12 - 2026/10/5 下午10:05:23",
+      "url": "https://censoul.github.io/Censoul/?report=20261005-213112-9i9x",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 13
+      }
+    },
     {
       "id": "20261004-201451-m1r5",
       "title": "Evil Lord Envy, Four K Ping Sil",
