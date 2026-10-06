@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.21.0"
+    "version": "3.22.0"
   },
   "entries": [
+    {
+      "id": "20261006-205604-rh80",
+      "title": "Aqukinnmaster",
+      "commanders": [
+        "Aqukinnmaster"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-06T12:56:04.000Z",
+      "dateEnd": "2026-10-06T13:22:59.179Z",
+      "dateLabel": "2026/10/6 下午8:56:04 - 2026/10/6 下午9:22:59",
+      "url": "https://censoul.github.io/Censoul/?report=20261006-205604-rh80",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20261005-213112-9i9x",
       "title": "Incôgnïto",
