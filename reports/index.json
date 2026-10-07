@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261007-211247-nifw",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-07T13:12:47.000Z",
+      "dateEnd": "2026-10-07T13:50:45.535Z",
+      "dateLabel": "2026/10/7 下午9:12:47 - 2026/10/7 下午9:50:45",
+      "url": "https://censoul.github.io/Censoul/?report=20261007-211247-nifw",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0.047619047619047616,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20261006-205604-rh80",
       "title": "Aqukinnmaster",
       "commanders": [
