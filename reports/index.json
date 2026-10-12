@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261012-213802-uuzx",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-12T13:38:02.000Z",
+      "dateEnd": "2026-10-12T14:06:29.321Z",
+      "dateLabel": "2026/10/12 下午9:38:02 - 2026/10/12 下午10:06:29",
+      "url": "https://censoul.github.io/Censoul/?report=20261012-213802-uuzx",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 51,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 29
+      }
+    },
     {
       "id": "20261011-211216-qrth",
       "title": "Kryskàa",
