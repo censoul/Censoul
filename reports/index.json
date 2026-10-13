@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261013-210319-dvzl",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-10-13T13:03:19.000Z",
+      "dateEnd": "2026-10-13T14:10:01.949Z",
+      "dateLabel": "2026/10/13 下午9:03:19 - 2026/10/13 下午10:10:01",
+      "url": "https://censoul.github.io/Censoul/?report=20261013-210319-dvzl",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20261012-213802-uuzx",
       "title": "Four K Ping Sil",
       "commanders": [
