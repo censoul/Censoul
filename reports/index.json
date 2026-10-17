@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261017-194044-z6l0",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-17T11:40:44.000Z",
+      "dateEnd": "2026-10-17T12:03:08.744Z",
+      "dateLabel": "2026/10/17 下午7:40:44 - 2026/10/17 下午8:03:08",
+      "url": "https://censoul.github.io/Censoul/?report=20261017-194044-z6l0",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261013-210319-dvzl",
       "title": "The Bloöp",
       "commanders": [
