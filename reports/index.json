@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261024-152319-e5pm",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "1273F409-2C3D-EE11-81B7-C3B1C0E42B51",
+        "name": "Outsiders Alliance",
+        "tag": "MOA"
+      },
+      "dateStart": "2026-10-24T07:23:19.000Z",
+      "dateEnd": "2026-10-24T07:51:34.216Z",
+      "dateLabel": "2026/10/24 下午3:23:19 - 2026/10/24 下午3:51:34",
+      "url": "https://censoul.github.io/Censoul/?report=20261024-152319-e5pm",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0.5333333333333333,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20261023-212559-1z25",
       "title": "Kryskàa",
       "commanders": [
