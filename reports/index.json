@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261101-005253-adew",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "FFA46CED-430F-E811-81A1-12C4323DADC8",
+        "name": "Alice Ever Garden",
+        "tag": "AEG"
+      },
+      "dateStart": "2026-10-31T16:52:53.000Z",
+      "dateEnd": "2026-10-31T17:19:00.105Z",
+      "dateLabel": "2026/11/1 上午12:52:53 - 2026/11/1 上午1:19:00",
+      "url": "https://censoul.github.io/Censoul/?report=20261101-005253-adew",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261031-212011-iulm",
       "title": "S I L F",
       "commanders": [
