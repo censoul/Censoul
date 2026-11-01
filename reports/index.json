@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-203308-zu5f",
+      "title": "S I L F",
+      "commanders": [
+        "S I L F"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-11-01T12:33:08.000Z",
+      "dateEnd": "2026-11-01T12:59:43.546Z",
+      "dateLabel": "2026/11/1 下午8:33:08 - 2026/11/1 下午8:59:43",
+      "url": "https://censoul.github.io/Censoul/?report=20261101-203308-zu5f",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20261101-005253-adew",
       "title": "Incôgnïto",
       "commanders": [
