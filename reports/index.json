@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261122-161454-eowj",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-11-22T08:14:54.000Z",
+      "dateEnd": "2026-11-22T09:14:12.353Z",
+      "dateLabel": "2026/11/22 下午4:14:54 - 2026/11/22 下午5:14:12",
+      "url": "https://censoul.github.io/Censoul/?report=20261122-161454-eowj",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261121-224334-xr1r",
       "title": "S I L F",
       "commanders": [
