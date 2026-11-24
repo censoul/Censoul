@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261124-213712-k30y",
+      "title": "S I L F, Schematic Sil",
+      "commanders": [
+        "S I L F",
+        "Schematic Sil"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-11-24T13:37:12.000Z",
+      "dateEnd": "2026-11-24T14:45:44.700Z",
+      "dateLabel": "2026/11/24 下午9:37:12 - 2026/11/24 下午10:45:44",
+      "url": "https://censoul.github.io/Censoul/?report=20261124-213712-k30y",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 43,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261122-220700-wyr7",
       "title": "Kryskàa",
       "commanders": [
