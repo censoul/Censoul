@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261128-224851-uzsm",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-11-28T14:48:51.000Z",
+      "dateEnd": "2026-11-28T15:25:53.340Z",
+      "dateLabel": "2026/11/28 下午10:48:51 - 2026/11/28 下午11:25:53",
+      "url": "https://censoul.github.io/Censoul/?report=20261128-224851-uzsm",
+      "publishedBy": "censoul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20261124-213712-k30y",
       "title": "S I L F, Schematic Sil",
       "commanders": [
